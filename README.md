@@ -57,5 +57,4 @@ java DniClient localhost 5000
 4. El servidor responde al cliente si el DNI es válido o no.
 5. El cliente muestra la respuesta del servidor en la consola.
 
-✨ _Desarrollado por [Tu Nombre](https://github.com/tu-usuario)_ ✨
 
